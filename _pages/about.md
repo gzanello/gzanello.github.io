@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>School of Agriculture, Policy and Development</p>
-  <p>University of Reading</p>
-  <p>RG6 6EU</p>
-  <p>United Kingdom</p>
-  <p>E-mail: g.zanello@reading.ac.uk</p>
+    <p>University of Reading</p>
+    <p>RG6 6EU</p>
+    <p>United Kingdom</p>
+    <p>E-mail: g.zanello@reading.ac.uk</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
