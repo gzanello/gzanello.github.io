@@ -1,16 +1,15 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-cv_pdf: example_pdf.pdf
 ---
 
 
 
 <center>
-If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/Schaposnik_CV_2022_July.pdf" target="_blank">here</a>.
+If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/GZanello_CV.pdf" target="_blank">here</a>.
 </center>
 
 <br>
