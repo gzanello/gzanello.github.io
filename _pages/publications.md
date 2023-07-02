@@ -3,11 +3,13 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009]
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
 nav: false
 nav_order: 2
 ---
 
+
+<!-- _pages/publications.md -->
 
 <script>
 function filterSubject(filter) {
@@ -47,7 +49,7 @@ TEST TEXT TEST
 
 <center>
 <p>
-<abbr class="{{site.data.badge_colors['red']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
+<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
 <abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('article')" style="cursor: pointer;">Articles</abbr>&ensp;
 <abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('techreport')" style="cursor: pointer;">Policy Reports</abbr>
 <abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('manual')" style="cursor: pointer;">Datasets</abbr>
