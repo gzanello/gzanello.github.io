@@ -11,50 +11,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<script>
-function filterSubject(filter) {
-  var list = document.getElementById("publicationList");
-  var rows = list.getElementsByClassName("row");
-  
-  // Loop through all rows, hide those which don't match the selected filter
-  for (i = 0; i < rows.length; i++) {
-    var primaryClass = rows[i].getElementsByClassName("category-tag")[0];
-	if (primaryClass.textContent.indexOf(filter) > -1) {
-        rows[i].style.display = "";
-    } else {
-        rows[i].style.display = "none";
-    }
-  }
-  
-  // Loop through all sections, hide those which are empty
-  var years = list.getElementsByClassName("year");
-  for (i = 0; i < years.length; i++) {
-    var count = 0;
-    for (j = 0; j < rows.length; j++) {
-	  var section_tag = rows[j].getElementsByClassName("section-tag")[0];
-	  if (section_tag.textContent == years[i].textContent && rows[j].style.display == "") { count++; }
-	}
-	if (count != 0) {
-	  years[i].style.display = "";
-	} else {
-	  years[i].style.display = "none";
-	}
-  }
-}
-</script>
-
-
-TEST TEXT TEST
-
-
-<center>
-<p>
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('')" style="cursor: pointer;">all</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('article')" style="cursor: pointer;">Articles</abbr>&ensp;
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('techreport')" style="cursor: pointer;">Policy Reports</abbr>
-<abbr class="{{site.data.badge_colors['darkgrey']}}" onclick="filterSubject('manual')" style="cursor: pointer;">Datasets</abbr>
-</p>
-</center>
+TEST TEST
 
 
 
