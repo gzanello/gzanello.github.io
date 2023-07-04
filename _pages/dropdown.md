@@ -6,7 +6,7 @@ nav_order: 2
 dropdown: true
 children: 
     - title: Peer-reviewed Articles
-      permalink: /publications/
+      permalink: /peer-reviewed_articles/
     - title: Book Chapters
       permalink: /book_chapter/
     - title: Research and Policy Reports
