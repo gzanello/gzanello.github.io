@@ -3,8 +3,8 @@ layout: page
 title: Research and Policy Reports
 permalink: /research_and_policy_reports/
 description:
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
-nav: true
+years: [2022, 2021, 2020, 2018, 2014]
+nav:
 nav_order:
 ---
 
