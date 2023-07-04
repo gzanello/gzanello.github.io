@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Published Datasets
+title: Published datasets
 permalink: /published_datasets/
 description:
 years: [2023, 2019]

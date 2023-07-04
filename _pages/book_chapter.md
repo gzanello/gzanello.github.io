@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Chapters
+title: Book chapters
 permalink: /book_chapter/
 description:
 years: [2022, 2020]

@@ -5,12 +5,12 @@ nav: true
 nav_order: 2
 dropdown: true
 children: 
-    - title: Peer-reviewed Articles
+    - title: Peer-reviewed articles
       permalink: /peer-reviewed_articles/
-    - title: Book Chapters
+    - title: Book chapters
       permalink: /book_chapter/
-    - title: Research and Policy Reports
+    - title: Research and policy reports
       permalink: /research_and_policy_reports/
-    - title: Published Datasets
+    - title: Published datasets
       permalink: /published_datasets/
 ---
