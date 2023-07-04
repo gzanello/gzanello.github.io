@@ -11,7 +11,7 @@ nav_order: 3
 
 
 
-<!-- _pages/publications.md -->
+<!-- _pages/grants.md -->
 
 <div id="publicationList" class="publications">
 
