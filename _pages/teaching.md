@@ -7,6 +7,16 @@ nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+<!-- _pages/teaching.md -->
+
+<div id="publicationList" class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f teaching -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+
