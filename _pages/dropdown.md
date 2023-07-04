@@ -2,12 +2,15 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 6
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications2
+    - title: Peer-reviewed Articles
       permalink: /publications/
-    - title: divider
-    - title: projects2
-      permalink: /projects/
+    - title: Book Chapters
+      permalink: /book_chapter/
+    - title: Research and Policy Reports
+      permalink: /research_and_policy_reports/
+    - title: Published Datasets
+      permalink: /published_datasets/
 ---
