@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-nav: false
+nav:
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:

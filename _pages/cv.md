@@ -15,7 +15,7 @@ If the embedded version of my CV does not work, you can download a copy <a href=
 <br>
 
 <center>
-<object data="/assets/pdf/example_pdf.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf">
-    <embed src="/assets/pdf/example_pdf.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf" />
+<object data="/assets/pdf/GZanello_CV.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf">
+    <embed src="/assets/pdf/GZanello_CV.pdf#view=FitH&pagemode=none" width="100%" height="800px" type="application/pdf" />
 </object>
 </center>
