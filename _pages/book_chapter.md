@@ -3,8 +3,6 @@ layout: page
 title: Book chapters
 permalink: /book_chapter/
 description:
-group_by: year
-group_order: descending
 nav: 
 nav_order:
 ---

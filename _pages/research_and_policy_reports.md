@@ -3,8 +3,6 @@ layout: page
 title: Research and policy reports
 permalink: /research_and_policy_reports/
 description:
-group_by: year
-group_order: descending
 nav:
 nav_order:
 ---

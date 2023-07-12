@@ -3,8 +3,6 @@ layout: page
 title: Published datasets
 permalink: /published_datasets/
 description:
-group_by: year
-group_order: descending
 nav:
 nav_order:
 ---
