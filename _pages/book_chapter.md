@@ -3,7 +3,8 @@ layout: page
 title: Book chapters
 permalink: /book_chapter/
 description:
-years: [2022, 2020]
+group_by: year
+group_order: descending
 nav: 
 nav_order:
 ---
@@ -17,9 +18,6 @@ TEST TEST
 
 <div id="publicationList" class="publications">
  
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f book_chapter -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography -f book_chapter {{ site.scholar.bibliography }} %}
 
 </div>

@@ -3,7 +3,8 @@ layout: page
 title: Published datasets
 permalink: /published_datasets/
 description:
-years: [2023, 2019]
+group_by: year
+group_order: descending
 nav:
 nav_order:
 ---
@@ -17,9 +18,6 @@ TEST TEST
 
 <div id="publicationList" class="publications">
  
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f published_datasets -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography -f published_datasets {{ site.scholar.bibliography }} %}
 
 </div>

@@ -568,6 +568,7 @@ footer.sticky-bottom {
   }
 
   h2.year {
+  h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
@@ -1001,4 +1002,5 @@ nav[data-toggle="toc"] {
       color: var(--global-danger-block-title);
     }
   }
+}
 }
