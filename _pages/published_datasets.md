@@ -18,6 +18,10 @@ TEST TEST
 
 <div id="publicationList" class="publications">
  
-{% bibliography -f published_datasets {{ site.scholar.bibliography }} %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f published_datasets -q @*[year={{y}}]* %}
+{% endfor %}
+
 
 </div>
