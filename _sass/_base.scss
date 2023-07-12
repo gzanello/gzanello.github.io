@@ -568,9 +568,8 @@ footer.sticky-bottom {
   }
 
   h2.year {
-  h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: var(--global-divider-color);  //This change the color of the year. Originally was "--global-divider-color" 
+    border-top: 1px solid var(--global-divider-color);  //This change the color of the year. Originally was "--global-divider-color" 
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;
