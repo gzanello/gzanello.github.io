@@ -18,6 +18,9 @@ TEST TEST
 
 <div id="publicationList" class="publications">
  
-{% bibliography -f book_chapter {{ site.scholar.bibliography }} %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f book_chapter -q @*[year={{y}}]* %}
+{% endfor %}
 
 </div>
