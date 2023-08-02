@@ -11,8 +11,6 @@ nav_order:
 
 <!-- _pages/book_chapter.md -->
 
-TEST TEST
-
 
 
 <div id="publicationList" class="publications">

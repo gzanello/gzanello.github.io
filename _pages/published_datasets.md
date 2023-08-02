@@ -11,8 +11,6 @@ nav_order:
 
 <!-- _pages/published_datasets.md -->
 
-TEST TEST
-
 
 
 <div id="publicationList" class="publications">
