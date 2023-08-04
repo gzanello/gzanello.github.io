@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gzanello.github.io/sitemap.xml
+Sitemap: www.giacomozanello.com/sitemap.xml
