@@ -14,7 +14,7 @@ profile:
     <p>University of Reading</p>
     <p>RG6 6EU</p>
     <p>United Kingdom</p>
-    <p>E-mail: g.zanello@rdg.ac.uk</p>
+    <p>E-mail: g.zanello@reading.ac.uk</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
