@@ -13,4 +13,6 @@ children:
       permalink: /research_and_policy_reports/
     - title: Published datasets
       permalink: /published_datasets/
+    - title: Stata commands
+      permalink: /stata_commands/
 ---
