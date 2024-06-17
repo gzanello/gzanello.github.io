@@ -24,9 +24,11 @@ socialcontact: true  # includes social icons under photo
 
 ---
 
-I am a Professor in Food Economics and Health, Head of the Agri-Food Economics and Marketing Department, and Deputy Director of the Graduate Institute for International Development, Agriculture and Economics at the [University of Reading](http://www.reading.ac.uk/apd/staff/g-zanello.aspx) (UK). I am also a Fellow at the London Centre for Integrative Research on Agriculture and Health (London School of Hygiene and Tropical Medicine) and I currently serve as interim Co-Chair of the Independent Expert Group for the [Global Nutrition Report](https://globalnutritionreport.org/about/independent-expert-group/).
+I am a Professor in Food Economics and Health and Head of the [Agri-Food Economics and Marketing Department](https://www.reading.ac.uk/agri-food-economics-marketing/) at the [University of Reading](http://www.reading.ac.uk/apd/staff/g-zanello.aspx) (UK). From 2019 to 2024 I acted as Deputy Director of the University of Reading's [Graduate Institute for International Development, Agriculture and Economics](https://www.reading.ac.uk/apd/giidae).
 
 My own work has been concentrated on efforts to understand how agriculture, food, nutrition, and health interact in low- and middle-income countries. I am currently interested in assessing the energy requirements of farmers and capturing the effects of agricultural practices on health and nutrition. More recently I have been expanding my research portfolio into analysis of food systems and the food environment.
+
+I currently serve as Co-Chair of the Independent Expert Group for the [Global Nutrition Report](https://globalnutritionreport.org/about/independent-expert-group/).
 
 Previously I was at the [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/) supporting the work of the [Global Panel on Agriculture and Food Systems for Nutrition](https://www.glopan.org/) in its commitment to tackling global challenges in food and nutrition security.
 
