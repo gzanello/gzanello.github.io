@@ -30,6 +30,4 @@ My own work has been concentrated on efforts to understand how agriculture, food
 
 I currently serve as Co-Chair of the Independent Expert Group for the [Global Nutrition Report](https://globalnutritionreport.org/about/independent-expert-group/).
 
-Previously I was at the [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/) supporting the work of the [Global Panel on Agriculture and Food Systems for Nutrition](https://www.glopan.org/) in its commitment to tackling global challenges in food and nutrition security.
-
-From 2012 to 2015 I was a research officer at Oxford University’s [Department of International Development](https://www.qeh.ox.ac.uk/). As part of the [Technology and Management for Development Centre](https://www.oxfordtmcd.org/), I did research on the diffusion of innovations in low-income countries.
+Previously I was at the [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/) supporting the work of the [Global Panel on Agriculture and Food Systems for Nutrition](https://www.glopan.org/) in its commitment to tackling global challenges in food and nutrition security. From 2012 to 2015 I was a research officer at Oxford University’s [Department of International Development](https://www.qeh.ox.ac.uk/). As part of the [Technology and Management for Development Centre](https://www.oxfordtmcd.org/), I did research on the diffusion of innovations in low-income countries.
