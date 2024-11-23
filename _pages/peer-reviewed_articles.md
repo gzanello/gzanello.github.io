@@ -11,7 +11,7 @@ nav_order:
 
 <!-- _pages/publications.md -->
 
-Working with a range of talented co-authors and using both qualitative and quantitative primary and secondary data, I am interested in research at the intersection of agriculture, food, nutrition, and health predominately in low-income countries. I am interested in the food system as a whole, but also in its various components (from production to markets and food environments) and how this affects nutrition and health. My research questions often have a gender-focused angle.
+Collaborating with a range of talented co-authors and leveraging both qualitative and quantitative primary and secondary data, my research focuses on the intersection of agriculture, food, nutrition, and health, predominantly in low-income countries. I examine the food system as a whole, as well as its individual components -- ranging from production to markets and food environments -- and their impact on nutrition and health. Many of my research questions incorporate a strong gender-focused perspective.
 
 
 
