@@ -3,7 +3,7 @@ layout: page
 title: Published datasets
 permalink: /published_datasets/
 description:
-years: [2023, 2019]
+years: [2025, 2023, 2019]
 nav:
 nav_order:
 ---
