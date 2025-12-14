@@ -26,7 +26,7 @@ socialcontact: true  # includes social icons under photo
 
 I am a Professor in Food Economics and Health and Head of the [Agri-Food Economics and Marketing Department](https://www.reading.ac.uk/agri-food-economics-marketing/) at the [University of Reading](http://www.reading.ac.uk/apd/staff/g-zanello.aspx) (UK). From 2019 to 2024 I served as Deputy Director of the University of Reading's [Graduate Institute for International Development, Agriculture and Economics](https://www.reading.ac.uk/apd/giidae).
 
-My research focuses on the interactions between agriculture, food, nutrition, and health in low- and middle-income countries. I am particularly interested in assessing the energy requirements of farmers and understanding the impacts of agricultural practices on health and nutrition. More recently, my work has expanded to include the analysis of food systems and food environments.
+My research research lies at the intersection of food systems, nutrition, and development, with a particular focus on low- and middle-income countries.
 
 I currently serve as Co-Chair of the Independent Expert Group for the [Global Nutrition Report](https://globalnutritionreport.org/about/independent-expert-group/).
 
