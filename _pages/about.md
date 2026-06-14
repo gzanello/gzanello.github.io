@@ -28,7 +28,7 @@ I am a Professor in Food Economics and Health and Head of the [Agri-Food Economi
 
 My research lies at the intersection of food systems, nutrition, and development, with a particular focus on low- and middle-income countries.
 
-# My work has been funded by the European Commission, UKRI, the FCDO, and the Bill & Melinda Gates Foundation, among others, and published in journals including *World Development*, *Food Policy*, *Global Food Security*, *Journal of Development Studies*, and *Social Science and Medicine*. Alongside my research, I am a committed educator and was awarded the University of Reading's Teaching Excellence Award in 2022.
+#My work has been funded by the European Commission, UKRI, the FCDO, and the Bill & Melinda Gates Foundation, among others, and published in journals including *World Development*, *Food Policy*, *Global Food Security*, *Journal of Development Studies*, and *Social Science and Medicine*. Alongside my research, I am a committed educator and was awarded the University of Reading's Teaching Excellence Award in 2022.
 
 I currently serve as Co-Chair of the Independent Expert Group for the [Global Nutrition Report](https://globalnutritionreport.org/about/independent-expert-group/) and as an Expert Adviser to [United Against Malnutrition & Hunger](https://uamh.uk/). I also hold a Visiting Professorship at the School of Agricultural and Food Sciences, [ADA University](https://www.ada.edu.az/en/schools/safs) (Azerbaijan).
 
